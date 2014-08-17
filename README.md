@@ -1,2 +1,2 @@
-yochiyochi_tutorial
+yochiyochirb_tutorial
 ===================
